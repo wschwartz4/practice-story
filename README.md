@@ -1,8 +1,8 @@
 # dataviz-story-template
 DataVizForAll.org story template using modified Bootstrap
 
-## Live view (replace with your own published link in Settings > Pages)
-https://datavizforall.github.io/dataviz-story-template/
+## Live view to my practice data story
+https://wschwartz4.github.io/practice-story/
 
 ## Instructions
 Read steps inside the `index.html` file
